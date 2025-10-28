@@ -1,7 +1,7 @@
 {
   "name": "EDITH-MD",
   "description": "Javascript WhatsApp bot powered by Bandaheali",
-  "logo": "https://i.ibb.co/8L2PmKPC/edith-md.jpg",
+  "logo": "https://cdn-bandaheali.zone.id/edith/alive.jpg",
   "keywords": ["EDITH-MD", "WhatsApp Bot", "Bandaheali"],
   "success_url": "/",
   "stack": "container",
