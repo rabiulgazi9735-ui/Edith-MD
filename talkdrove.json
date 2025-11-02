@@ -1,5 +1,5 @@
 {
-    "bot-name": "SHABAN-MD",
+    "bot-name": "_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_",
     "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Shaban",
     "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
     "keywords": ["bot"],
@@ -29,47 +29,47 @@
     
       "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
-      "required": false,
-      "value": "MR-SHABAN"
+      "required": true,
+      "value": "_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_"
       
     }, 
     
       "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "required": false,
-      "value": "923043788282"
+      "required": true,
+      "value": "918972428638"
 
     }, 
  
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
-      "required": false,
-      "value": "𝚂ʜᴀʙᴀɴ-ᴍᴅ-𝚆.𝙰 𝙱𝙾𝚃"
+      "required": true,
+      "value": "_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_-𝚆.𝙰 𝙱𝙾𝚃"
     }, 
       
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
-      "required": false,
-      "value": "."
+      "required": true,
+      "value": "true"
     },
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
       
     },
        
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": true,
-      "value": "false"  
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_REPLY": {
@@ -81,7 +81,7 @@
     "AUTO_STICKER": {
       "description": "Make it true if you want automatic sticker.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
 
@@ -100,27 +100,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*𝑺𝒉𝒂𝒃𝒂𝒏 𝑴𝒅 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
+      "value": "*_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_ 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
-      "required": false,
-      "value": "𝐌𝐫 𝐒𝐡𝐚𝐛𝐚𝐧"
+      "required": true,
+      "value": "_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923043788282"
+      "value": "918972428638"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
-      "required": false,
-      "value": "SHABAN-MD"
+      "required": true,
+      "value": "_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_"
 
       }, 
 
@@ -133,44 +133,44 @@
     
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
 
      "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "required": false,
-      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sʜᴀʙᴀɴ*"
+      "required": true,
+      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ _❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_*"
     },
     
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
     
     "ADMIN_EVENTS": {
       "description": "make it true if want know who promote or demote a member .",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
 
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
     
        "ANTI_CALL": {
@@ -183,7 +183,7 @@
     "ANTI_DEL_PATH": {
       "description": "change it to -same- if you want to resend deleted message in same chat othwise inbox",
       "required": true,
-      "value": "inbox"
+      "value": "false"
     },
     
     "ANTI_DELETE": {
@@ -195,7 +195,7 @@
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }
   }
 }
