@@ -54,9 +54,9 @@
     },
     
     "MODE": {
-      "description": "select your bot work type public-private-inbox-group.",
-      "required": true,
-      "value": "public"
+      "description": "select your bot work type private-inbox-group.",
+      "required": false,
+      "value": "private"
       
     },
        
